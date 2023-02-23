@@ -13,6 +13,10 @@ const Header = () => {
           <Grid item>
             
           </Grid>
+          <Grid>
+
+          </Grid>
+          <Grid></Grid>
       </Toolbar>
     </AppBar>
   )
